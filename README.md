@@ -1,4 +1,5 @@
 # Human-Activity-Recognition-with-Smartphones
-##    open in colab click it in notebook  ![image](https://user-images.githubusercontent.com/39713678/132973805-4adf6897-fedf-4e2f-bd5c-6b8c74158997.png)
+##    open in colab click "open in colab" in notebook  ![image](https://user-images.githubusercontent.com/39713678/132989891-f2092d16-da29-4e8f-a26d-dc04a7d976e3.png)
+
 
 Human Activity Recognition with Smartphones data from kaggle notebook for machinfy
